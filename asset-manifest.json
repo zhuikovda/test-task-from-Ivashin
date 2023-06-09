@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-task-from-Ivashin/static/css/main.e6c13ad2.css",
+    "main.js": "/test-task-from-Ivashin/static/js/main.b84e9468.js",
+    "static/js/787.106f446a.chunk.js": "/test-task-from-Ivashin/static/js/787.106f446a.chunk.js",
+    "index.html": "/test-task-from-Ivashin/index.html",
+    "main.e6c13ad2.css.map": "/test-task-from-Ivashin/static/css/main.e6c13ad2.css.map",
+    "main.b84e9468.js.map": "/test-task-from-Ivashin/static/js/main.b84e9468.js.map",
+    "787.106f446a.chunk.js.map": "/test-task-from-Ivashin/static/js/787.106f446a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b84e9468.js"
+  ]
+}
